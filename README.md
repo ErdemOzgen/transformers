@@ -6,4 +6,5 @@ Repo for the *Natural Language Processing: NLP With Transformers in Python* cour
 pip install qtconsole
 conda install pyqt
 pip install jupyter
+pip install ipympl
 ```
